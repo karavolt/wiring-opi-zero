@@ -1,0 +1,23 @@
+{
+  "name": "wiring-opi-zero",
+  "version": "0.0.1",
+  "description": "Bindings to wiringPi",
+  "main": "lib/exports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "/bin/bash ./install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karavolt/wiring-opi-zero.git"
+  },
+  "keywords": [
+    "wiringPi",
+    "gpio",
+    "orange pi",
+    "pi",
+    "h3"
+  ],
+  "author": "karavolt<lightfluxing@gmail.com>",
+  "license": "BSD"
+}
